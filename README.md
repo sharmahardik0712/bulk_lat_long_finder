@@ -40,6 +40,19 @@ pip install webdriver_manager
    ```
 
    The script will start scraping the business data from each specified URL and save it to a CSV file named `google_map_business_data.csv`.
+5. download the script `lat_long_link.py` to your local machine.
+
+6. Place the `google_map_business_data.csv` file in the same directory as the script.
+
+3. Open the script in a text editor of your choice.
+
+4. Run the script using Python:
+
+   ```shell
+   python data_processing.py
+   ```
+
+   The script will process the business data and save the output to a new CSV file named `output.csv`.
 
 ## Configuration
 
