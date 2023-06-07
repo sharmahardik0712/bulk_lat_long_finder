@@ -49,7 +49,7 @@ pip install webdriver_manager
 4. Run the script using Python:
 
    ```shell
-   python data_processing.py
+   python lat_long_link.py
    ```
 
    The script will process the business data and save the output to a new CSV file named `output.csv`.
