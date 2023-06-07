@@ -19,7 +19,7 @@ pip install webdriver_manager
 
 ## Usage
 
-1. Clone the repository or download the script `google_map_scraper.py` to your local machine.
+1. Clone the repository or download the script `links.py` to your local machine.
 
 2. Open the script in a text editor of your choice.
 
@@ -36,7 +36,7 @@ pip install webdriver_manager
 4. Run the script using Python:
 
    ```shell
-   python google_map_scraper.py
+   python links.py
    ```
 
    The script will start scraping the business data from each specified URL and save it to a CSV file named `google_map_business_data.csv`.
